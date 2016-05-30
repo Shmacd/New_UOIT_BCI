@@ -1,0 +1,5 @@
+C:\Users\100599016\Desktop\BCIResearch2016-COM\build\Debug\DotNetEmotivSDK.dll
+C:\Users\100599016\Desktop\BCIResearch2016-COM\build\Debug\DotNetEmotivSDK.pdb
+C:\Users\100599016\Desktop\BCIResearch2016-COM\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.csprojResolveAssemblyReference.cache
+C:\Users\100599016\Desktop\BCIResearch2016-COM\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.dll
+C:\Users\100599016\Desktop\BCIResearch2016-COM\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.pdb

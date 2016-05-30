@@ -1,0 +1,6 @@
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Debug\EEG_DotNet_Example-vs2010.csprojResolveAssemblyReference.cache
+C:\Users\admin\git\BCIResearch2016\build\Debug\EEG_Recorder.exe.config
+C:\Users\admin\git\BCIResearch2016\build\Debug\EEG_Recorder.exe
+C:\Users\admin\git\BCIResearch2016\build\Debug\EEG_Recorder.pdb
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Debug\EEG_Recorder.exe
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Debug\EEG_Recorder.pdb

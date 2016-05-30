@@ -1,0 +1,39 @@
+https://www.dropbox.com/s/y1wa6agj23ppukf/Emotiv%20Research%20Edition%20SDK%20v2.0.0.20.zip?dl=0
+
+----------------------------------------------------------------------------
+1. Make sure directory contains:
+
+- easy_passwords.txt
+- hard_pro_passwords.txt
+- hard_spell_passwords.txt
+
+2. Install Virtual COM port software (VSPE) , setup a COM port
+
+Device > Create...
+For device type, select "Connector," then press "Next"
+Choose your virtual serial port. (COM10)
+Then, click "Finish"
+Press play, should be "Initialization... OK"
+
+3. Run TestBench.
+
+Marker > Configure Serial Port
+Select the port you just created, leave default settings
+Press save data bottom left hand side
+Enter in details, start recording
+
+4. Run EEG_Recorder.exe
+
+Enter participant ID
+Use form to run the experiment
+Stop saving recording on TestBench when whole experiment is done
+Convert EDF to CSV in TestBench (Tools > Launch EDF to CSV converter)
+
+5. Run analysis.
+Markers in raw files: last column
+1, 2, 3 = start of password displays (easy, hard to spell, hard to pronounce)
+99 = end of password display
+
+Files in the directory you can EEG_Recorder are: 
+id.passwords: the passwords that are randomly generated for the user
+id.responses: the responses recorded from the user

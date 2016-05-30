@@ -1,0 +1,11 @@
+C:\Users\admin\git\BCIResearch2016\build\Release\EEG_Recorder.exe.config
+C:\Users\admin\git\BCIResearch2016\build\Release\EEG_Recorder.exe
+C:\Users\admin\git\BCIResearch2016\build\Release\EEG_Recorder.pdb
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG.Disp.resources
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG.Instructions.resources
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG.Main.resources
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG.Questionnaire.resources
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG.Test.resources
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG_Recorder.csproj.GenerateResource.Cache
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG_Recorder.exe
+C:\Users\admin\git\BCIResearch2016\DotNet_EEG_Example\EEG_Example_1\obj\x86\Release\EEG_Recorder.pdb

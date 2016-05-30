@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetEmotivSDK-vs2010", "DotNetEmotivSDK\DotNetEmotivSDK-vs2010.csproj", "{23B51742-EFCA-4343-A43B-263B5A3EAB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEG_Recorder", "DotNet_EEG_Example\EEG_Example_1\EEG_Recorder.csproj", "{8A38FB2C-2C89-48B8-A115-D941B79E9CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B51742-EFCA-4343-A43B-263B5A3EAB22}.Debug|x86.ActiveCfg = Debug|x86
+		{23B51742-EFCA-4343-A43B-263B5A3EAB22}.Debug|x86.Build.0 = Debug|x86
+		{23B51742-EFCA-4343-A43B-263B5A3EAB22}.Release|x86.ActiveCfg = Release|x86
+		{23B51742-EFCA-4343-A43B-263B5A3EAB22}.Release|x86.Build.0 = Release|x86
+		{8A38FB2C-2C89-48B8-A115-D941B79E9CE7}.Debug|x86.ActiveCfg = Debug|x86
+		{8A38FB2C-2C89-48B8-A115-D941B79E9CE7}.Debug|x86.Build.0 = Debug|x86
+		{8A38FB2C-2C89-48B8-A115-D941B79E9CE7}.Release|x86.ActiveCfg = Release|x86
+		{8A38FB2C-2C89-48B8-A115-D941B79E9CE7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

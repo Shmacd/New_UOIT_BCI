@@ -1,0 +1,15 @@
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\bin\Debug\COMsender.exe
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\bin\Debug\COMsender.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\obj\x86\Debug\COMsender.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\obj\x86\Debug\COMsender.Properties.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\obj\x86\Debug\COMsender.csproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\obj\x86\Debug\COMsender.exe
+C:\Users\admin\AppData\Local\Temporary Projects\COMsender\obj\x86\Debug\COMsender.pdb
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\obj\x86\Debug\COMsender.exe
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\obj\x86\Debug\COMsender.pdb
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\bin\Debug\COMsender.exe
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\bin\Debug\COMsender.pdb
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\obj\x86\Debug\COMsender.csprojResolveAssemblyReference.cache
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\obj\x86\Debug\COMsender.Form1.resources
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\obj\x86\Debug\COMsender.Properties.Resources.resources
+C:\Users\admin\git\BCIResearch2016\COMsender\COMsender\obj\x86\Debug\COMsender.csproj.GenerateResource.Cache

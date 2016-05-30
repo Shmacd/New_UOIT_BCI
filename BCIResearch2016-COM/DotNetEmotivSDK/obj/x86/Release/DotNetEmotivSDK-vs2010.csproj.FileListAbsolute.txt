@@ -1,0 +1,5 @@
+C:\Users\admin\git\BCIResearch2016\build\Release\DotNetEmotivSDK-vs2010.dll.config
+C:\Users\admin\git\BCIResearch2016\build\Release\DotNetEmotivSDK-vs2010.dll
+C:\Users\admin\git\BCIResearch2016\build\Release\DotNetEmotivSDK-vs2010.pdb
+C:\Users\admin\git\BCIResearch2016\DotNetEmotivSDK\obj\x86\Release\DotNetEmotivSDK-vs2010.dll
+C:\Users\admin\git\BCIResearch2016\DotNetEmotivSDK\obj\x86\Release\DotNetEmotivSDK-vs2010.pdb

@@ -1,0 +1,13 @@
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\admin\git\BCIResearch2016\UI\bin\Debug\UI.exe
+C:\Users\admin\git\BCIResearch2016\UI\bin\Debug\UI.pdb
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\UI.exe
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\UI.pdb
+C:\Users\admin\git\BCIResearch2016\UI\bin\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\admin\git\BCIResearch2016\UI\bin\Debug\EEG_Recorder.exe
+C:\Users\admin\git\BCIResearch2016\UI\bin\Debug\DotNetEmotivSDK-vs2010.pdb
+C:\Users\admin\git\BCIResearch2016\UI\bin\Debug\EEG_Recorder.pdb
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\EEG.Disp.resources
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\EEG.Main.resources
+C:\Users\admin\git\BCIResearch2016\UI\obj\x86\Debug\EEG.Properties.Resources.resources

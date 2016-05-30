@@ -1,0 +1,10 @@
+C:\Users\admin\git\BCIResearch2016\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+C:\Users\admin\git\BCIResearch2016\build\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\admin\git\BCIResearch2016\build\Debug\DotNetEmotivSDK-vs2010.pdb
+C:\Users\admin\git\BCIResearch2016\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\admin\git\BCIResearch2016\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+C:\Users\100599016\Desktop\BCIResearch2016-COM\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+C:\Users\100599016\Desktop\BCIResearch2016-COM\build\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\100599016\Desktop\BCIResearch2016-COM\build\Debug\DotNetEmotivSDK-vs2010.pdb
+C:\Users\100599016\Desktop\BCIResearch2016-COM\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\100599016\Desktop\BCIResearch2016-COM\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb
